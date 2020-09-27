@@ -35,5 +35,5 @@ PS: Position is saved to RAM, so it get losted on power off or reset.
 
 ## Bug reports
 
-Please, report them to [mailto:rene@renesp.com.br|rene@renesp.com.br]
+Please, report them to [rene@renesp.com.br](mailto:rene@renesp.com.br)
 
